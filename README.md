@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15208014/ankur-saxena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/15208014/ankur-saxena" height="30" width="40" /></a>
 <a href="https://instagram.com/ankur6130" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ankur6130" height="30" width="40" /></a>
-<a href="https://www.youtube.com/gamingrockstars88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="gamingrockstars88" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCo_LwMiDDEdoHV_XM5ziG-Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="gamingrockstars88" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
