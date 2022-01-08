@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ANKUR SAXENA</h1>
-<h3 align="center">A passionate Software Developer, Web Developer, Writer, Blogger, Traveller and Self-publisher</h3>
+<h3 align="center">A passionate Writer, Blogger, Computer Programmer, Gamer, Self Publisher And Traveller</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indiarocks88&label=Profile%20views&color=0e75b6&style=flat" alt="indiarocks88" /> </p>
 
